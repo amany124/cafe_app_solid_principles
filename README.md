@@ -1,16 +1,32 @@
-# mentor3
+☕ Cafe App – SOLID Principles Implementation
 
-A new Flutter project.
+Project Description:
+Cafe App is a mobile application built with Flutter that demonstrates the application of SOLID principles in object-oriented programming. The app provides a simple and clean interface to manage a cafe, including adding, editing, and deleting menu items, tracking orders, and managing staff.
 
-## Getting Started
+🧩 Features
 
-This project is a starting point for a Flutter application.
+Menu Management: Add, edit, and remove cafe items easily.
 
-A few resources to get you started if this is your first Flutter project:
+Order Management: Track and update customer orders efficiently.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Staff Management: Organize staff roles and responsibilities.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SOLID Principles: The code is designed according to SOLID principles to ensure maintainability and scalability.
+
+📚 SOLID Implementation Highlights
+
+S (Single Responsibility Principle): Each class has a single, well-defined responsibility.
+
+O (Open/Closed Principle): Classes are open for extension but closed for modification.
+
+L (Liskov Substitution Principle): Subtypes can replace base types without affecting functionality.
+
+I (Interface Segregation Principle): Interfaces are small and focused, reducing unnecessary dependencies.
+
+D (Dependency Inversion Principle): High-level modules depend on abstractions rather than concrete implementations.
+
+Screen shots 📷: 
+<img width="430" height="830" alt="s1" src="https://github.com/user-attachments/assets/d8465997-4c20-49d3-8d26-e6c800632119" />
+
+<img width="445" height="825" alt="s2" src="https://github.com/user-attachments/assets/53c09c39-044c-49b5-a73f-2df0917fcd2f" />
+
